@@ -1,7 +1,7 @@
 from django.db import models
 
 # Create your models here.
-
+# schema of database  - structure of data base tables 
 # About Model
 
 class About(models.Model):
